@@ -1,6 +1,6 @@
 # SWIM
 
-A ~~(S)uperior~~ ~~(S)atisfactory~~ ~~~(S)imple~~~ (S)tupid (WI)ndow (M)anager
+A ~~(S)uperior~~ ~~(S)atisfactory~~ (S)imple (WI)ndow (M)anager
 
 ## Installation
 
